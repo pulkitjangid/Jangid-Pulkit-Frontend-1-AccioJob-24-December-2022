@@ -1,0 +1,50 @@
+
+.nav-item .nav-link {
+    font-size: 80%;
+    color: rgb(255, 255, 255);
+}
+
+span {
+    margin: 5px;
+}
+
+.one {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav-item .nav-link3 {
+
+    color: rgb(0, 0, 0);
+}
+
+.heading1 h1 {
+    margin-left: 6%;
+    font-weight: 300;
+    font-size: 4em;
+    padding: 2%;
+}
+
+.btn1 {
+    border: 1px solid rgb(78, 74, 74);
+    background-color: white;
+    color: black;
+    padding: 8px 10px;
+    font-size: 9px;
+    cursor: pointer;
+}
+
+
+#footer {
+    margin-top: auto;
+    bottom: 0%;
+    width: 100%;
+    height: 60px;
+   
+    background: #6cf;
+}
+
+.myimage{
+    border-radius: 60%;
+    padding: 5px;
+}
